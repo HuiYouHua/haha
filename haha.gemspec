@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Write a short summary, because RubyGems requires one."
   spec.description   = "Write a longer description or delete this line."
-  spec.homepage      = "https://github.com/AFNetworking"
+  spec.homepage      = "https://github.com/HuiYouHua/haha"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   #依赖的文件
