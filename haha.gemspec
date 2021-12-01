@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "haha"
   spec.version       = Haha::VERSION
   spec.authors       = ["huayoyu"]
-  spec.email         = ["793316968@qq.com"]
+  spec.email         = ["7933169666@qq.com"]
 
   spec.summary       = "Write a short summary, because RubyGems requires one."
   spec.description   = "Write a longer description or delete this line."
