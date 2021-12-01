@@ -6,7 +6,7 @@ require_relative "lib/haha/version"
 Gem::Specification.new do |spec|
   spec.name          = "haha"
   spec.version       = Haha::VERSION
-  spec.authors       = ["华惠友"]
+  spec.authors       = ["huayoyu"]
   spec.email         = ["793316968@qq.com"]
 
   spec.summary       = "Write a short summary, because RubyGems requires one."
