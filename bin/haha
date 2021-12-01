@@ -4,7 +4,9 @@ puts '这是我的第一个 Ruby 项目！'
 
 require 'haha'
 require 'pp'
-
+require 'cocoapods'
 # ARGV 就是内置的可以接收命令行参数的变量
-pp ARGV
-Haha::Writer.write_to(ARGV[0], ARGV[1])
+# pp ARGV
+# Haha::Writer.write_to(ARGV[0], ARGV[1])
+
+Haha::Command.run(ARGV)
